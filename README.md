@@ -1,9 +1,15 @@
 # AI Research Engineer
 ### Skills
-- C++ | Python | Matlab
-- Numpy | OpenCV | Open3D | PCL
-- Tensorflow | Pytorch
-- ROS | Gazebo
+- C++, Python, Matlab
+- Numpy, OpenCV, Open3D, PCL
+- Tensorflow, Pytorch
+- ROS, Gazebo
+- GIT, SVN
+
+### Interests
+- Sensor Fusion
+- Semantic Segmentation, 2D & 3D Object Detection
+- Monocular Depth Estimation
 
 ### Education
 - M.Sc., Computer Engineering | Graz University of Technology  (_Jan 2021_)
@@ -32,6 +38,6 @@ Software development for Pharmacy Application
 - Contributed to the design and development of the mini Mars rover ‘Beetle’ during my tenure at Graz University of Technology. My primary focus within the team centered on Simultaneous Localization and Mapping (SLAM) techniques and path planning algorithms for the rover’s autonomous exploration.
 
 ### Certificates
-- C++ Nanodegree | Udacity
-- State Estimation and Localization for Self driving cars | University of Toronto
+- C++ Nanodegree [code](https://github.com/keerthidatta/cpp) | Udacity
+- State Estimation and Localization for Self driving cars [code](https://github.com/keerthidatta/state_estimation)| University of Toronto
 - Neural Networks and Deep Learning | DeepLearning.ai
