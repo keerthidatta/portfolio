@@ -14,6 +14,7 @@
 **Project Assistant @ Graz University of Technology** (_Nov 2019 - Jan 2021_)
 - Designed and deployed a robust ROS PI controller, enabling dynamic exposure adjustments for a custom-built stereo camera. This enhancement optimized image quality across varying lighting conditions. 
 - Developed stereo camera based visual odometry algorithm for Off-road navigation. While successful in many scenarios, the algorithm faced limitations in environments with sparse features, complex terrains, or heavy snow cover. These challenges drove ongoing research and adaptation to enhance robustness.
+- Conducted data collection, processing, and analysis to evaluate localization and mapping algorithms in off-road and on-campus environment
 
 **Software Engineer @ Jungheinrich GmBH (_Nov 2018 - Nov 2019_)**
 - Designed and implemented an intelligent route optimization algorithm for warehouse robots. Leveraging real-time inventory information, the algorithm dynamically adjusted robot paths, minimizing travel time and maximizing efficiency within the warehouse environment.
