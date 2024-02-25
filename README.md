@@ -6,9 +6,10 @@
 
 ### Work Experience
 **AI Research Engineer @ Track Machines Connected GmBH (_March 2021 - Present_)**
-- Enhanced and extended an existing Train Track Segmentation algorithm by leveraging the SOA Semantic Segmentation model DeepLabV3+.
+- Designed and implemented a technology demonstration utilizing Ground Penetration Radar (GPR) data from train tracks. By detecting clay fouling and ballast fouling, this approach lays the foundation for future track fault detection, ultimately enhancing safety and preventing accidents.
 - Implemented multi-sensor Calibration framework to calibrate 6 line scanners with a Lidar. This calibration process optimized sensor fusion, resulting in precise track geometry and reliable obstacle detection.
 - Developed an effective method of fusing the line scanner's Intensity data with range map at the image level. This technique yielded a remarkable 10x improvement in rail track mapping accuracy.
+- Enhanced and extended an existing Train Track Segmentation algorithm by leveraging the SOA Semantic Segmentation model DeepLabV3+.
 
 **Project Assistant @ Graz University of Technology** (_Nov 2019 - Jan 2021_)
 - Designed and deployed a robust ROS PI controller, enabling dynamic exposure adjustments for a custom-built stereo camera. This enhancement optimized image quality across varying lighting conditions. 
@@ -17,7 +18,7 @@
 **Software Engineer @ Jungheinrich GmBH (_Nov 2018 - Nov 2019_)**
 - Designed and implemented an intelligent route optimization algorithm for warehouse robots. Leveraging real-time inventory information, the algorithm dynamically adjusted robot paths, minimizing travel time and maximizing efficiency within the warehouse environment.
 
-**Software Developer @ NTT DATA Pvt Ltd (_May 2014 - Aug 2014_)**
+**Software Developer @ NTT DATA Pvt Ltd (_May 2014 - Aug 2014_)**\
 Software development for Pharmacy Application
 
 ### Projects
