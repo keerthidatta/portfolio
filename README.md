@@ -1,4 +1,5 @@
 # AI Research Engineer
+### Skills
 
 ### Education
 - M.Sc., Computer Engineering | Graz University of Technology  (_Jan 2021_)
@@ -23,3 +24,10 @@
 Software development for Pharmacy Application
 
 ### Projects
+- Designed and Implemented Extended Kalman Filter for localization of Robot. Data from Wheen encoders, IMU, and GPS were fused for global position estimation.
+- Contributed to the design and development of the mini Mars rover ‘Beetle’ during my tenure at Graz University of Technology. My primary focus within the team centered on Simultaneous Localization and Mapping (SLAM) techniques and path planning algorithms for the rover’s autonomous exploration.
+
+### Certificates
+- C++ Nanodegree | Udacity
+- State Estimation and Localization for Self driving cars | University of Toronto
+- Neural Networks and Deep Learning | DeepLearning.ai
