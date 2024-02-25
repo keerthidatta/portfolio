@@ -1,15 +1,23 @@
 # AI Research Engineer
 
 ### Education
-- M.Sc., AI | Graz University of Technology (_Jan 2021_)
-- B.E., Electronics | Visvesvarayya Technological University (_August 2013_)
+- M.Sc., Computer Engineering | Graz University of Technology  (_Jan 2021_)
+- B.E., Electronics and Telecommunication | Visvesvaraya Technological University (_Aug 2013_) 
 
 ### Work Experience
 **AI Research Engineer @ Track Machines Connected GmBH (_March 2021 - Present_)**
-- Developed Train Track Segmentation algorithm leveraging the SOA Semantic Segmentation model DeepLabV3+
-- Implemented multi-sensor Calibration framework to calibrate 6 line scanners with a Lidar. This calibration process optimized sensor fusion, resulting in precise track geometry and reliable obstacle detection
-- Developed an effective method of fusing the line scanner's Intensity data with range map at the image level. This technique yielded a remarkable 10x improvement in rail track mapping accuracy 
+- Enhanced and extended an existing Train Track Segmentation algorithm by leveraging the SOA Semantic Segmentation model DeepLabV3+.
+- Implemented multi-sensor Calibration framework to calibrate 6 line scanners with a Lidar. This calibration process optimized sensor fusion, resulting in precise track geometry and reliable obstacle detection.
+- Developed an effective method of fusing the line scanner's Intensity data with range map at the image level. This technique yielded a remarkable 10x improvement in rail track mapping accuracy.
 
-Project Assistant @ Graz University of Technology
+**Project Assistant @ Graz University of Technology** (_Nov 2019 - Jan 2021_)
+- Designed and deployed a robust ROS PI controller, enabling dynamic exposure adjustments for a custom-built stereo camera. This enhancement optimized image quality across varying lighting conditions. 
+- Developed stereo camera based visual odometry algorithm for Off-road navigation. While successful in many scenarios, the algorithm faced limitations in environments with sparse features, complex terrains, or heavy snow cover. These challenges drove ongoing research and adaptation to enhance robustness.
+
+**Software Engineer @ Jungheinrich GmBH (_Nov 2018 - Nov 2019_)**
+- Designed and implemented an intelligent route optimization algorithm for warehouse robots. Leveraging real-time inventory information, the algorithm dynamically adjusted robot paths, minimizing travel time and maximizing efficiency within the warehouse environment.
+
+**Software Developer @ NTT DATA Pvt Ltd (_May 2014 - Aug 2014_)**
+Software development for Pharmacy Application
 
 ### Projects
