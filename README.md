@@ -1,5 +1,9 @@
 # AI Research Engineer
 ### Skills
+- C++ | Python | Matlab
+- Numpy | OpenCV | Open3D | PCL
+- Tensorflow | Pytorch
+- ROS | Gazebo
 
 ### Education
 - M.Sc., Computer Engineering | Graz University of Technology  (_Jan 2021_)
