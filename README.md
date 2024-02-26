@@ -30,8 +30,8 @@
 **Software Engineer @ Jungheinrich GmBH (_Nov 2018 - Nov 2019_)**
 - Designed and implemented an intelligent route optimization algorithm for warehouse robots. Leveraging real-time inventory information, the algorithm dynamically adjusted robot paths, minimizing travel time and maximizing efficiency within the warehouse environment.
 
-**Software Developer @ NTT DATA Pvt Ltd (_May 2014 - Aug 2014_)**\
-Software development for Pharmacy Application
+**Software Developer @ NTT DATA Pvt Ltd (_May 2014 - Aug 2016_)**\
+- Software development for Pharmacy Application
 
 ### Projects
 - Designed and Implemented Extended Kalman Filter for localization of Robot. Data from Wheen encoders, IMU, and GPS were fused for global position estimation.
@@ -41,3 +41,8 @@ Software development for Pharmacy Application
 - C++ Nanodegree [code](https://github.com/keerthidatta/cpp) | Udacity
 - State Estimation and Localization for Self driving cars [code](https://github.com/keerthidatta/state_estimation)| University of Toronto
 - Neural Networks and Deep Learning | DeepLearning.ai
+
+### Publications
+- Collaborative aspects of solving rail-track multi-sensor data fusion, ARTE 2022 [link](https://link.springer.com/chapter/10.1007/978-3-031-14343-4_7)
+- AMADEE-20 Exploration Cascade using Robotic Vehicles, IROS 2020 [link](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/450117/amadee2020planrobo.pdf?sequence=1&isAllowed=y)
+- Universal Offroad Robot Platform for Disaster Response, SSRR 2020 [link](https://www.researchgate.net/publication/354699567_Universal_Offroad_Robot_Platform_for_Disaster_Response)
