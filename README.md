@@ -7,7 +7,7 @@
 - GIT, SVN
 
 ### Interests
-- Sensor Fusion
+- Sensor Fusion, SLAM, State Estimation
 - Semantic Segmentation, 2D & 3D Object Detection
 - Monocular Depth Estimation
 
@@ -30,7 +30,7 @@
 **Software Engineer @ Jungheinrich GmBH (_Nov 2018 - Nov 2019_)**
 - Designed and implemented an intelligent route optimization algorithm for warehouse robots. Leveraging real-time inventory information, the algorithm dynamically adjusted robot paths, minimizing travel time and maximizing efficiency within the warehouse environment.
 
-**Software Developer @ NTT DATA Pvt Ltd (_May 2014 - Aug 2016_)**\
+**Software Developer @ NTT DATA Pvt Ltd (_May 2014 - Aug 2016_)**
 - Software development for Pharmacy Application
 
 ### Projects
@@ -39,7 +39,7 @@
 
 ### Certificates
 - C++ Nanodegree [code](https://github.com/keerthidatta/cpp) | Udacity
-- State Estimation and Localization for Self driving cars [code](https://github.com/keerthidatta/state_estimation)| University of Toronto
+- State Estimation and Localization for Self driving cars [code](https://github.com/keerthidatta/state_estimation) | University of Toronto
 - Neural Networks and Deep Learning | DeepLearning.ai
 
 ### Publications
