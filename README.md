@@ -38,7 +38,7 @@
 - Contributed to the design and development of the mini Mars rover ‘Beetle’ during my tenure at Graz University of Technology. My primary focus within the team centered on Simultaneous Localization and Mapping (SLAM) techniques and path planning algorithms for the rover’s autonomous exploration.
 
 ### Certificates
-- Sensor Fusion Nanodegree [code] (https://github.com/keerthidatta/SFND_Unscented_Kalman_Filter) | Udacity
+- Sensor Fusion Nanodegree [code](https://github.com/keerthidatta/SFND_Unscented_Kalman_Filter) | Udacity
 - C++ Nanodegree [code](https://github.com/keerthidatta/cpp) | Udacity
 - State Estimation and Localization for Self driving cars [code](https://github.com/keerthidatta/state_estimation) | University of Toronto
 - Neural Networks and Deep Learning | DeepLearning.ai
